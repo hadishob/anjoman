@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-color: antiquewhite;
+}
+
+.left-top {
+	background-color: #FFE1BA;
+}
+
+.right-top {
+	background-color: #FFCD8E;
+}
+
+.footer-style {
+	background-color: #272727;
+}
+
+.text-color {
+	color: #DCDCDC;
+}
+
+.header-style {
+	background-color: #272727;
+}
+
+.navbar a:link {
+	color: white;
+}
+
+.navbar a:visited {
+	color: white;
+}
+
+.navbar a:hover {
+	color: #FFE1BA;
+}
+
+.active {
+	color: #FFCD8E;
+}
+
+.form-style {
+	background-color: rgba(35,29,17,0.80);
+}
+
+.form-bg {
+	background-image: url("../Image/form-1.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.button-style {
+	border: none;
+	background-color: rgba(112,94,58,1.00); 
+}
+
+.input-style {
+	border-radius: 5px;
+	border: 1px solid rgba(183,183,183,1.00);
+	color: rgba(134,134,134,1.00);
+	font-size: 14px;
+	padding: 4px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 60%;
+	min-width: 222px;
+}
+
+.input-style-1 {
+	border-radius: 5px;
+	border: 1px solid rgba(183,183,183,1.00);
+	color: rgba(134,134,134,1.00);
+	font-size: 14px;
+	padding: 4px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.btn-style {
+	border: 2px solid rgba(112,94,58,1.00);
+	color: white;
+}
+
+.btn-style:hover {
+	background-color: rgba(112,94,58,1.00);
+	color: white;
+}
